@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Netsanet Almaw 👋
 
-<!--
-**netsanetalmaw/netsanetalmaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Science in Cyber Operations at the University of Maryland Global Campus (UMGC)
 
-Here are some ideas to get you started:
+🛡️ Security Analyst | cyber operation | Vulnerability Management | Incident Response  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🔭 Work on project in cybersecurity 
+- 🌱 Expertise in Security Analyst, Cyber Operation, Malware Analysis, Threat Hunting 
+- 💻 Passionate about defensive and offensive cybersecurity operations
+- 📍 Maryland, USA
+
+## Technical Skills
+
+### Security Tools
+- Splunk
+- OpenVAS (Greenbone)
+- Wireshark
+- Nmap
+- Metasploit
+- Burp Suite
+- Ghidra
+- REMnux
+- FlareVM
+
+### Operating Systems
+- Linux (Ubuntu, Kali)
+- Windows Server
+
+### Programming
+- Python
+- Bash
+- PowerShell
+
+### Cloud Technologies
+- AWS
+- S3
+- DynamoDB
+- Lambda
+
+## Featured Projects
+- OpenVAS Vulnerability Assessment Lab
+- Splunk Threat Hunting Lab
+- Malware Analysis Lab
+- AWS Cloud Security Project
+- Python Metadata Harvester
+- Active Directory Lab
+
+## Current Coursework
+- Foundations in Cyberspace Operations
+- Fundamentals of Networking
+- Introduction to Linux
+- Building Secure Python Applications
+- Database Security
+- Detecting Software Vulnerabilities
+- Reverse Engineering and Malware Analysis
+- Secure Software Engineering
+- Secure Programming in the Cloud
+- Offensive Cyber Operations
+- Defensive Cyber Operations
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/netsanet-almaw
+- Email: netsanetalmaw16@gmail.com
+
+
