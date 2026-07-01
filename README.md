@@ -46,7 +46,7 @@
 - Python Metadata Harvester
 - Active Directory Lab
 
-## Current Coursework
+## Labs and Project
 - Foundations in Cyberspace Operations
 - Fundamentals of Networking
 - Introduction to Linux
